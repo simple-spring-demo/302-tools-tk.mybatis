@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://rm-m5e498pv4qxgs0ftf2o.mysql.rds.aliyuncs.com:3306/study_spring_user_center
+    hikari:
+      username: yanghongwei
+      password: Gh5RAS7yJPDpc3e6
+      driver-class-name: com.mysql.cj.jdbc.Driver
