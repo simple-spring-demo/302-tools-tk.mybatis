@@ -14,3 +14,7 @@ spring Cloud Alibaba微服务从入门到进阶
 ## 需要学会的是
 1. 创建项目
 2. 需要学会使用 mysql 库使用
+3. 学会使用 tk.mybatis 自动生成方法 
+
+## 结果
+http://localhost:8080/test 可以自动插入数据
