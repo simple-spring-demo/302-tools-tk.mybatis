@@ -13,4 +13,4 @@ spring Cloud Alibaba微服务从入门到进阶
 
 ## 需要学会的是
 1. 创建项目
-2. 监控actuator
+2. 需要学会使用 mysql 库使用
